@@ -1,3 +1,7 @@
+/*
+ * Main function provided by HackerRank, findMedians function written by Cailan St Martin
+ */
+
 import java.util.*;
 
 public class RunningMedian {
